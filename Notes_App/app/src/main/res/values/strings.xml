@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes_App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="color">Color</string>
+    <string name="dialogTitle">Delete Notes</string>
+    <string name="dialogText">Are you sure want to delete the Notes</string>
+    <string name="dialogYes">Yes</string>
+    <string name="dialogNo">No</string>
+</resources>
